@@ -15,18 +15,21 @@ _Figure ---> M0 and Model (the model compared with experimental data)_
 
         _Example 1:_  
         
+                    directedness_model3_MJ.m
                     ML_control_OG_Normal_MJ.m
                     ML_control_new_Normal_MJ.m
 
 
         _Example 2:_ 
         
+                    directedness_model3_MJ.m
                     ML_control_OG_CHATTER_MJ.m
                     ML_control_new_CHATTER_MJ.m
 
 
         _Example 3:_ 
 
+                    directedness_model3_MJ.m
                     ML_control_OG_SLOWGROWTH_MJ.m
                     ML_control_new_SLOWGROWTH_MJ.m
     
@@ -40,18 +43,21 @@ Additional In Silico Comparisons with Existing Controllers
 
         _Example 1:_  
         
+                    directedness_model3_MJ.m
                     ML_control_OG_Normal_MJ.m
                     ML_control_new_Normal_MJ.m
 
 
         _Example 2:_ 
         
+                    directedness_model3_MJ.m
                     ML_control_OG_CHATTER_MJ.m
                     ML_control_new_CHATTER_MJ.m
 
 
         _Example 3:_ 
 
+                    directedness_model3_MJ.m
                     ML_control_OG_SLOWGROWTH_MJ.m
                     ML_control_new_SLOWGROWTH_MJ.m
     
