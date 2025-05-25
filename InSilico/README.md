@@ -18,3 +18,17 @@ _Figure ---> M0 and Model (the model compared with experimental data)_
 **Appendix C** 
 
 Additional In Silico Comparisons with Existing Controllers
+
+
+
+
+
+Plotting the results for **Appendix C** and **_in silico_ analysis**
+
+              CH_PIDSMC.mat
+              New_CH.mat
+              New_Normal.mat
+              New_SL.mat
+              Normal_PIDSMC.mat
+              SL_PIDSMC.mat
+              plotting_Results_Paper.m
