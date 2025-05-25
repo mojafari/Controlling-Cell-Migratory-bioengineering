@@ -1,6 +1,7 @@
 This directory contains the following:
 
 **Qualitative Stochastic Model of Cell Directedness**
+
 _Figure ---> M0 and Model (the model compared with experimental data)_
 
 
