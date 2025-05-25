@@ -1,1 +1,1 @@
-Data and plots for \emph{in vitro} analysis.
+Data and plots for _in vitro_ analysis.
