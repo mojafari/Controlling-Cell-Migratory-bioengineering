@@ -6,7 +6,8 @@ _Figure ---> M0 and Model (the model compared with experimental data)_
 
               directedness_model3_MJ.m
               M0_rawdata_Cleaned.mat
-              plotting_modelANDdata_M0.m
+              plotting_modelANDdata_M0.m            (per Frame)
+              plotting_modelANDdata_M0_Min.m        (per min)
               shadedErrorBar.m (from https://github.com/raacampbell/shadedErrorBar/blob/master/shadedErrorBar.m)
 
 
