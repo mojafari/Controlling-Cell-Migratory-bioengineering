@@ -73,4 +73,5 @@ Plotting the results for **Appendix C** and **_in silico_ analysis**
               New_SL.mat
               Normal_PIDSMC.mat
               SL_PIDSMC.mat
-              plotting_Results_Paper.m
+              plotting_Results_Paper.m        (in sec)
+              plotting_Results_Paper_Min.m    (in min)
